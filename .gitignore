@@ -25,6 +25,7 @@ publish/
 # Ignore Rider and VS Code
 .idea/
 .vscode/
+.vs/
 
 # Ignore backup or temp files
 *.bak
