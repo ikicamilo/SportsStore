@@ -12,6 +12,7 @@ secrets.json
 
 # Ignore production settings (contains secrets)
 SportsStore/appsettings.Production.json
+SportsStore/appsettings.json
 SportsStore/appsettings.Development.json
 
 # Ignore published files
